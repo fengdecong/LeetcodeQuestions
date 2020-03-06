@@ -1,4 +1,4 @@
-//判断是否是平衡二叉树  左右子树高度差不能超过1
++//判断是否是平衡二叉树  左右子树高度差不能超过1
 class Solution {
     public int getHeight(TreeNode root){
         if(root == null)
